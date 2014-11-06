@@ -1,0 +1,35 @@
+{
+  "name": "yeti",
+  "version": "3.2.0",
+  "homepage": "https://github.com/spinner-dev/yeti",
+  "authors": [
+    "abr4xas <me@abr4xas.org>"
+  ],
+  "description": "Flat bootstrap CSS",
+  "main": [
+    "css/bootstrap.min.css",
+    "js/bootstrap.js"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.0"
+  },    
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "bootstrap",
+    "flat"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
